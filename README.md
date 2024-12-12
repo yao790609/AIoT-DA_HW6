@@ -70,7 +70,7 @@ To run this project, you need the following dependencies:
 - huggingface_hub
 - PIL (for image processing)
 
-### Known Issues and Future Improvements
+### 5. Known Issues and Future Improvements
 - Slow Data Loading: Experiment with smaller datasets or optimize image pre-processing pipelines.
 - Memory Issues: Ensure sufficient memory for training, or use smaller batch sizes.
 - Fine-Tuning: The model may require additional fine-tuning for better performance depending on the dataset size and quality.
